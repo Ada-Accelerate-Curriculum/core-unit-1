@@ -1,6 +1,34 @@
 ---
 Standards:
   -
+    Title: Getting Ready
+    Description: "Preparing for Ada"
+    UID: 20794ec7-1fad-4f31-a552-1429f4a67638
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: a0dcfc49-d7ae-4d85-8f83-22ebb7982872
+        Path: /preparing-for-ada/starter.md
+      -
+        Type: Lesson
+        UID: f5a99ab6-c687-4706-aceb-eaeb5e5c59b0
+        Path: /preparing-for-ada/installfest.md
+      -
+        Type: Lesson
+        UID: a3a851b4-a725-4e6b-acd1-96d948a90d21
+        Path: /preparing-for-ada/workflow.md
+      - 
+        Type: Lesson
+        UID: 7ff13769-cfc8-42f6-b550-1a0b8a8e4933
+        Path: /preparing-for-ada/python-style.md          
+      -
+        Type: Lesson
+        UID: d5884ace-2cf9-46e5-b279-29ef1a501cbb
+        Path: /preparing-for-ada/preparing-for-ada.checkpoint.md
+        
+  -
     Title: Fundamentals
     Description: "Fundamentals Vocabulary, Conditionals, Functions Overview, Defining Functions, Invoking Functions, How to Read Documentation, Problem Set: Fundamentals Vocabulary, Problem Set: Conditionals, Problem Set: Intro to Functions, Math Primer"
     UID: w7RhPU
