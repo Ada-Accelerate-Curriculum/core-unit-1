@@ -19,15 +19,18 @@ Standards:
         Type: Lesson
         UID: a3a851b4-a725-4e6b-acd1-96d948a90d21
         Path: /preparing-for-ada/03-workflow.md
+      -
+        Type: Lesson
+        UID: c128cb2c-81e0-4727-8f74-e7d0719348bf
+        Path: /preparing-for-ada/04-content-workflow.md
       - 
         Type: Lesson
         UID: 7ff13769-cfc8-42f6-b550-1a0b8a8e4933
-        Path: /preparing-for-ada/04-python-style.md          
+        Path: /preparing-for-ada/05-python-style.md          
       -
         Type: Lesson
         UID: d5884ace-2cf9-46e5-b279-29ef1a501cbb
-        Path: /preparing-for-ada/05-preparing-for-ada.checkpoint.md
-        
+        Path: /preparing-for-ada/06-preparing-for-ada.checkpoint.md
   -
     Title: Fundamentals
     Description: "Fundamentals Vocabulary, Conditionals, Functions Overview, Defining Functions, Invoking Functions, How to Read Documentation, Problem Set: Fundamentals Vocabulary, Problem Set: Conditionals, Problem Set: Intro to Functions, Math Primer"
