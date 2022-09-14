@@ -1,4 +1,4 @@
-# Activity: Representing Data
+# Optional Activity: Representing Data
 
 <!-- Can be async -->
 <!-- Preferred synchronous -->
