@@ -32,14 +32,19 @@ In this course you can always resubmit work.  If you want a 2nd-round of instruc
 
 In this course we want you to learn to do the following:
 
+*  Understand and learn Python if it is a new language to you
 *  Consistently follow [Python coding practices](https://www.python.org/dev/peps/pep-0008/)
-*  Understand and use conditional statements
-*  Understand and use functions
-*  Understand and use loops
-*  Understand and write functions with parameters
-*  Understand and use lists along with loops
-*  Understand and use dictionaries
-*  Understand and use lists and dictionaries together - nested data structures with loops
+*  Review and understand coding Fundamentals including:
+   *  Conditionals
+   *  Functions
+   *  Loops
+   *  Parameters
+   *  Lists
+   *  Dictionaries
+   *  Nested Data Structures
+*  Understand debugging
+*  Understand and use basic Git commands
+*  Understands variables and memory
 
 We also want you to learn a bit of workflow and learn to use [VS Code](https://code.visualstudio.com/) to write your programs.
 
