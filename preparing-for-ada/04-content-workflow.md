@@ -36,7 +36,7 @@ Below is a more detailed suggested workflow through the Precourse Curriculum. So
 | Lightning Talks    | Technical Lightning Talks    |                                                        |
 
 ## Precourse Live
-For specific topics, we will host optional Precourse Live sessions in the [Auditorium Zoom Room](aud-accel.adadev.org) from 4:30-6:30 PST on the following dates to certain topics in more depth. We encourage you to attend any sessions where you feel extra review of the topic would strengthen your understanding of the material. 
+For specific topics, we will host optional Precourse Live sessions in the [Auditorium Zoom Room](http://aud-accel.adadev.org) from 4:30-6:30 PST on the following dates to certain topics in more depth. We encourage you to attend any sessions where you feel extra review of the topic would strengthen your understanding of the material. 
 
 Precourse Live will be presented in a [flipped-classroom](https://omerad.msu.edu/index.php?option=com_content&view=article&id=162:what-why-and-how-to-implement-a-flipped-classroom-model&catid=27:teaching) style. We will expect students to have reviewed content prior to the session. In class, students have the opportunity to ask questions, review concepts, and work on exercises.
 
@@ -53,6 +53,6 @@ Precourse Live will be presented in a [flipped-classroom](https://omerad.msu.edu
 
 ## Accessing Help
 
-In addition to Precourse Live, we will have instructor and TA office hours available for student questions. We also have the #study-hall channel in Slack available for questions and the Study Hall Zoom at [accel-study-hall.adadev.org](accel-study-hall.adadev.org) where you can meet to work through content with peers. We encourage you to lean on your fellow Adies as well as instructors and TAs for help!
+In addition to Precourse Live, we will have instructor and TA office hours available for student questions. We also have the #study-hall channel in Slack available for questions and the Study Hall Zoom at [accel-study-hall.adadev.org](http://accel-study-hall.adadev.org) where you can meet to work through content with peers. We encourage you to lean on your fellow Adies as well as instructors and TAs for help!
 
 We suggest reaching out for help if you have been unable to debug or answer your own question after 15 minutes. If you are unable to receive an answer from your peers immediately, move on and come back to the content. 
