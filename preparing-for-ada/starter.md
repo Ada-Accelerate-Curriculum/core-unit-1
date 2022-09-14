@@ -51,7 +51,7 @@ We also want you to learn a bit of workflow and learn to use [VS Code](https://c
 ## Your Pre-Ada Responsibilities
 
 * Complete the installfest and make sure you have everything installed
-* Complete Each unit of the pre-ada material
+* Complete each unit of the Pre-Ada material
 
 ## Coding Exercises
 
