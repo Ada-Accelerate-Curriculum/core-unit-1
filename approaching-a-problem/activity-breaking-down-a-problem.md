@@ -1,4 +1,4 @@
-# Activity: Breaking Down a Problem
+# Optional Activity: Breaking Down a Problem
 
 ## Goal
 
