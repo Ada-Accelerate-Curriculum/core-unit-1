@@ -18,7 +18,7 @@ Below is a more detailed suggested workflow through the Precourse Curriculum. So
 | Precourse          | Preparing for Ada            | 10/18: Environment Setup                               |
 | Precourse          | Fundamentals                 | 10/20: Python Fundamentals                             |
 | Precourse          | What is Software Development |                                                        | 
-| Precourse          | Intro to Dev Environment     | 10/25: Intro to Debugging & Dev Environment            |
+| Precourse          | Intro to Dev Environment     | 10/25: Intro to Debugging & Dev Environment Tips & Tricks            |
 | Precourse          | Approaching a  Problem       |                                                        |
 | Precourse          | Intro to Debugging           | 10/25: Intro to Debugging & Dev Environment            |
 | Precourse          | Representing Data            |                                                        |
