@@ -1,7 +1,7 @@
 # Content Workflow
 You should currently be able to view several units in Learn. In addition to the About Ada and Precourse units, you should see topics listed under the units CS Fundamentals, Software Development Tools, Projects, and Lightning Talks.
 
-We expect students to have a thorough understanding of the topics under these additional units prior to your first day at Ada in addition to the primary Precourse unit content. As we progress through Units 1-3, we will be adding further topics to these units. 
+We expect students to have a thorough understanding of the topics under these additional units and the primary Precourse unit prior to the first day at Ada. As we progress through Units 1-3, you'll see further topics added to these and other units. 
 
 ## Precourse Completion Requirements
 
