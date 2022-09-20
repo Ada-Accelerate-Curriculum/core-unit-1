@@ -13,27 +13,27 @@ All other content is optional and intended to serve as a resource for you to rev
 
 Below is a more detailed suggested workflow through the Precourse Curriculum. Some topics will have dedicated review sessions with instructor support through our Precourse Live sessions. 
 
-| Unit               | Topic                        | Precourse Live Session                                 |
-|:------------------:|:----------------------------:|:------------------------------------------------------:|
-| Precourse          | Preparing for Ada            | 10/18: Environment Setup                               |
-| Precourse          | Fundamentals                 | 10/20: Python Fundamentals                             |
-| Precourse          | What is Software Development |                                                        | 
-| Precourse          | Intro to Dev Environment     | 10/25: Intro to Debugging & Dev Environment Tips & Tricks            |
-| Precourse          | Approaching a  Problem       |                                                        |
-| Precourse          | Intro to Debugging           | 10/25: Intro to Debugging & Dev Environment            |
-| Precourse          | Representing Data            |                                                        |
-| Precourse          | Iterating Over Data          |                                                        |
-| Precourse          | Debugging Continued          |                                                        |
-| Software Tools     | Using the Debugger           |                                                        |   
-| Precourse          | Nested Data and Nested Loops | 10/27: Python Nested Data, Functions, Helper Functions | 
-| CS Fundamentals    | Variables and Memory         |                                                        |
-| Software Tools     | Intro to Git                 | 11/1: Git  Basics & Workflows                                |
-| Software Tools     | Managing Packages            |                                                        |
-| Project            | Ada Project Practices        | 11/3, 11/8, 11/10: Coworking & Office                  |
-| Project (Required) | Viewing Party                | 11/3, 11/8, 11/10: Coworking & Office                  |
-| Project            | AdaGrams                     | 11/3, 11/8, 11/10: Coworking & Office                  |
-| Lightning Talks    | Intro to Lightning Talks     |                                                        |
-| Lightning Talks    | Technical Lightning Talks    |                                                        |
+| Unit               | Topic                        | Precourse Live Session                                    |
+|:------------------:|:----------------------------:|:---------------------------------------------------------:|
+| Precourse          | Preparing for Ada            | 10/18: Environment Setup                                  |
+| Precourse          | Fundamentals                 | 10/20: Python Fundamentals                                |
+| Precourse          | What is Software Development |                                                           | 
+| Precourse          | Intro to Dev Environment     | 10/25: Intro to Debugging & Dev Environment Tips & Tricks |
+| Precourse          | Approaching a  Problem       |                                                           |
+| Precourse          | Intro to Debugging           | 10/25: Intro to Debugging & Dev Environment Tips & Tricks |
+| Precourse          | Representing Data            |                                                           |
+| Precourse          | Iterating Over Data          |                                                           |
+| Precourse          | Debugging Continued          |                                                           |
+| Software Tools     | Using the Debugger           |                                                           |   
+| Precourse          | Nested Data and Nested Loops | 10/27: Python Nested Data, Functions, Helper Functions    | 
+| CS Fundamentals    | Variables and Memory         |                                                           |
+| Software Tools     | Intro to Git                 | 11/1: Git Basics & Workflow                               |
+| Software Tools     | Managing Packages            |                                                           |
+| Project            | Ada Project Practices        | 11/3, 11/8, 11/10: Coworking & Office                     |
+| Project (Required) | Viewing Party                | 11/3, 11/8, 11/10: Coworking & Office                     |
+| Project            | AdaGrams                     | 11/3, 11/8, 11/10: Coworking & Office                     |
+| Lightning Talks    | Intro to Lightning Talks     |                                                           |
+| Lightning Talks    | Technical Lightning Talks    |                                                           |
 
 ## Precourse Live
 For specific topics, we will host optional Precourse Live sessions in the [Auditorium Zoom Room](http://aud-accel.adadev.org) from 4:30-6:30 PST on the following dates to certain topics in more depth. We encourage you to attend any sessions where you feel extra review of the topic would strengthen your understanding of the material. 
@@ -46,7 +46,7 @@ Precourse Live will be presented in a [flipped-classroom](https://omerad.msu.edu
 | Thursday, October 20  | Python Fundamentals                               |
 | Tuesday, October 25   | Intro to Debugging, Dev Environment Tips & Tricks |
 | Thursday, October 27  | Python Nested Data, Functions, & Helper Functions |
-| Tuesday, November 1   | Git                                               |
+| Tuesday, November 1   | Git Basics & Workflow                             |
 | Thursday, November 3  | Coworking & Office Hours                          |
 | Tuesday, November 8   | Coworking & Office Hours                          |     
 | Thursday, November 10 | Coworking & Office Hours                          |
