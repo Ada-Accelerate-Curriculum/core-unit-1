@@ -27,7 +27,7 @@ Below is a more detailed suggested workflow through the Precourse Curriculum. So
 | Software Tools     | Using the Debugger           |                                                        |   
 | Precourse          | Nested Data and Nested Loops | 10/27: Python Nested Data, Functions, Helper Functions | 
 | CS Fundamentals    | Variables and Memory         |                                                        |
-| Software Tools     | Intro to Git                 | 11/1: Git                                              |
+| Software Tools     | Intro to Git                 | 11/1: Git  Basics & Workflows                                |
 | Software Tools     | Managing Packages            |                                                        |
 | Project            | Ada Project Practices        | 11/3, 11/8, 11/10: Coworking & Office                  |
 | Project (Required) | Viewing Party                | 11/3, 11/8, 11/10: Coworking & Office                  |
