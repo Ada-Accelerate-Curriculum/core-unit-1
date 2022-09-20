@@ -1,7 +1,7 @@
 # Content Workflow
 You should currently be able to view several units in Learn. In addition to the About Ada and Precourse units, you should see topics listed under the units CS Fundamentals, Software Development Tools, Projects, and Lightning Talks.
 
-We expect students to have a thorough understanding of the topics under these additional units prior to your first day at Ada in addition to the primary Precourse unit content. As we progress through Units 1-3, we will be adding further topics to these units. 
+We expect students to have a thorough understanding of the topics under these additional units and the primary Precourse unit prior to the first day at Ada. As we progress through Units 1-3, you'll see further topics added to these and other units. 
 
 ## Precourse Completion Requirements
 
@@ -27,7 +27,7 @@ Below is a more detailed suggested workflow through the Precourse Curriculum. So
 | Software Tools     | Using the Debugger           |                                                        |   
 | Precourse          | Nested Data and Nested Loops | 10/27: Python Nested Data, Functions, Helper Functions | 
 | CS Fundamentals    | Variables and Memory         |                                                        |
-| Software Tools     | Intro to Git                 | 11/1: Git                                              |
+| Software Tools     | Intro to Git                 | 11/1: Git  Basics & Workflows                                |
 | Software Tools     | Managing Packages            |                                                        |
 | Project            | Ada Project Practices        | 11/3, 11/8, 11/10: Coworking & Office                  |
 | Project (Required) | Viewing Party                | 11/3, 11/8, 11/10: Coworking & Office                  |
