@@ -6,7 +6,7 @@ We expect students to have a thorough understanding of the topics under these ad
 ## Precourse Completion Requirements
 
 To complete Precourse, you must complete the following lessons and projects:
-- Preparing for Ada
+- Getting Ready
 - Representing Data
 - Iterating Over Data
 - Debugging Continued
@@ -24,7 +24,7 @@ Below is a more detailed suggested workflow through the Precourse Curriculum. So
 
 | Unit               | Topic                           | Precourse Live Session                                    | Required? |
 |:------------------:|:-------------------------------:|:---------------------------------------------------------:|:---------:|
-| Precourse          | Preparing for Ada               | 10/18: Environment Setup                                  | Yes       |
+| Precourse          | Getting Ready                   | 10/18: Environment Setup                                  | Yes       |
 | Precourse          | Fundamentals                    | 10/20: Python Fundamentals                                | No        |
 | Precourse          | What is Software Development    |                                                           | No        | 
 | Precourse          | Intro to Dev Environment        | 10/25: Intro to Debugging & Dev Environment Tips & Tricks | No        |
