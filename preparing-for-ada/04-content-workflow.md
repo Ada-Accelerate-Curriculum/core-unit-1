@@ -5,35 +5,44 @@ We expect students to have a thorough understanding of the topics under these ad
 
 ## Precourse Completion Requirements
 
-To complete Precourse, you must implement and submit the project Viewing Party. 
+To complete Precourse, you must complete the following lessons and projects:
+- Preparing for Ada
+- Representing Data
+- Iterating Over Data
+- Debugging Continued
+- Nested Data and Nested Loops
+- Variables and Memory
+- Viewing Party
+- Intro to Lightning Talks
+- About Problem-Solving Exercises 
 
-All other content is optional and intended to serve as a resource for you to review and fill in any gaps in your knowledge base. You are not required to complete all problem sets or challenge questions contained within the Precourse curriculum. We suggest that you skim all of the topics and fully complete problem sets or challenge questions for any topics you feel you need more practice with. 
+All other content is optional and intended to serve as a resource for you to review and fill in any gaps in your knowledge base. You are not required to complete the problem sets and activities contained within these optional lessons. We suggest that you skim the optional topics and fully complete problem sets or challenge questions for any optional topics you feel you need more practice with. 
 
 ## Suggested Content Workflow
 
 Below is a more detailed suggested workflow through the Precourse Curriculum. Some topics will have dedicated review sessions with instructor support through our Precourse Live sessions. 
 
-| Unit               | Topic                        | Precourse Live Session                                    |
-|:------------------:|:----------------------------:|:---------------------------------------------------------:|
-| Precourse          | Preparing for Ada            | 10/18: Environment Setup                                  |
-| Precourse          | Fundamentals                 | 10/20: Python Fundamentals                                |
-| Precourse          | What is Software Development |                                                           | 
-| Precourse          | Intro to Dev Environment     | 10/25: Intro to Debugging & Dev Environment Tips & Tricks |
-| Precourse          | Approaching a  Problem       |                                                           |
-| Precourse          | Intro to Debugging           | 10/25: Intro to Debugging & Dev Environment Tips & Tricks |
-| Precourse          | Representing Data            |                                                           |
-| Precourse          | Iterating Over Data          |                                                           |
-| Precourse          | Debugging Continued          |                                                           |
-| Software Tools     | Using the Debugger           |                                                           |   
-| Precourse          | Nested Data and Nested Loops | 10/27: Python Nested Data, Functions, Helper Functions    | 
-| CS Fundamentals    | Variables and Memory         |                                                           |
-| Software Tools     | Intro to Git                 | 11/1: Git Basics & Workflow                               |
-| Software Tools     | Managing Packages            |                                                           |
-| Project            | Ada Project Practices        | 11/3, 11/8, 11/10: Coworking & Office                     |
-| Project (Required) | Viewing Party                | 11/3, 11/8, 11/10: Coworking & Office                     |
-| Project            | AdaGrams                     | 11/3, 11/8, 11/10: Coworking & Office                     |
-| Lightning Talks    | Intro to Lightning Talks     |                                                           |
-| Lightning Talks    | Technical Lightning Talks    |                                                           |
+| Unit               | Topic                           | Precourse Live Session                                    | Required? |
+|:------------------:|:-------------------------------:|:---------------------------------------------------------:|:---------:|
+| Precourse          | Preparing for Ada               | 10/18: Environment Setup                                  | Yes       |
+| Precourse          | Fundamentals                    | 10/20: Python Fundamentals                                | No        |
+| Precourse          | What is Software Development    |                                                           | No        | 
+| Precourse          | Intro to Dev Environment        | 10/25: Intro to Debugging & Dev Environment Tips & Tricks | No        |
+| Precourse          | Approaching a  Problem          |                                                           | No        |
+| Precourse          | Intro to Debugging              | 10/25: Intro to Debugging & Dev Environment Tips & Tricks | No        |
+| Precourse          | Representing Data               |                                                           | Yes       |
+| Precourse          | Iterating Over Data             |                                                           | Yes       |
+| Precourse          | Debugging Continued             |                                                           | Yes       |
+| Software Tools     | Using the Debugger              |                                                           | No        |
+| Precourse          | Nested Data and Nested Loops    | 10/27: Python Nested Data, Functions, Helper Functions    | Yes       |
+| CS Fundamentals    | Variables and Memory            |                                                           | Yes       |
+| Software Tools     | Intro to Git                    | 11/1: Git Basics & Workflow                               | No        |
+| Software Tools     | Managing Packages               |                                                           | No        |
+| Project            | Ada Project Practices           | 11/3, 11/8, 11/10: Coworking & Office                     | No        |
+| Project            | Viewing Party                   | 11/3, 11/8, 11/10: Coworking & Office                     | Yes       |
+| Project            | AdaGrams                        | 11/3, 11/8, 11/10: Coworking & Office                     | No        |
+| Lightning Talks    | Intro to Lightning Talks        |                                                           | Yes       |
+| PSEs               | About Problem-Solving Exercises |                                                           | Yes       |
 
 ## Precourse Live
 For specific topics, we will host optional Precourse Live sessions in the [Auditorium Zoom Room](http://aud-accel.adadev.org) from 4:30-6:30 PST on the following dates to certain topics in more depth. We encourage you to attend any sessions where you feel extra review of the topic would strengthen your understanding of the material. 
