@@ -1,4 +1,14 @@
 # Installfest - Getting Software Installed
+<!-- available callout types: info, success, warning, danger, secondary, star  -->
+### !callout-star
+
+## Still don't have a Mac?
+
+If you are still waiting for your Macbook, you will not be able to complete Installfest yet, but you can still complete the rest of the Precourse curriculum. The Learn platform has code editors embedded in it so you can write your solutions to problem sets there and run them. You can also create a free account on [Replit](https://replit.com/) to run Python code.
+<br>
+Come back to Installfest and complete this section when you have your Mac!
+
+### !end-callout
 
 ## Overview
 
