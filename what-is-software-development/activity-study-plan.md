@@ -9,7 +9,9 @@ Our goal is to introduce personal and helpful study habits, tools, and skills.
 
 ## Activity Instructions
 
-Follow the directions below. It is a series of reflection questions, followed by group discussion.
+Follow the directions below. We've organized a series of reflection questions to help you to explore what strategies will work best for you. 
+
+Feel free to share about your study habits or ask others about what works for them in the Slack channel #study-habits!
 
 ## Past Experiences and Study Tools
 
@@ -17,20 +19,14 @@ Follow the directions below. It is a series of reflection questions, followed by
 
 Take 5 minutes to reflect on the following questions. Write down your answers for yourself.
 
-We encourage you to make this discussion practical, useful, and honest for yourselves.
-
 1. What is something in your life that you had to teach yourself how to do?
     - How did it feel?
-1. What is a skill in your life that improved with time, practice, and effort? 
+2. What is a skill in your life that improved with time, practice, and effort? 
     - How did it feel?
-1. What are some previous positive learning and studying experiences you have had? 
+3. What are some previous positive learning and studying experiences you have had? 
     - What worked well?
-1. What are some previous negative learning and studying experiences you have had? 
+4. What are some previous negative learning and studying experiences you have had? 
     - What didn't work?
-
-### Discuss
-
-Let's discuss our experiences in groups for about 10 minutes. Only share what you feel comfortable sharing!
 
 ## Study Tools and Reviewing Material
 
@@ -57,10 +53,6 @@ Take 5 minutes to reflect on the following questions. Write down your answers fo
 1. What is your experience with reviewing material over time? What has worked? What hasn't? Why?
 1. What do you need in order be able to review material effectively?
 
-### Discussion
-
-Let's discuss our experiences in groups for about 15 minutes. Only share what you feel comfortable sharing!
-
 ## Identifying Needs and Maintaining Balance
 
 ### Reflect
@@ -85,9 +77,6 @@ Take 5 minutes to reflect on the following questions. Write down your answers fo
 
 1. What other factors in your environment impact your studying? How can we support and help you?
 
-### Discussion
-
-Let's discuss our experiences in groups for about 15 minutes. Only share what you feel comfortable sharing!
 
 ## Conclusion
 
