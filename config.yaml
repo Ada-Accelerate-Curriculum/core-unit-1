@@ -178,21 +178,6 @@ Standards:
         UID: eedb1f62ad21bb5e478b414c25e17998
         Path: /composition/problem-set-composition.md
   -
-    Title: Python OOP
-    Description: "Composition, Problem Set: Composition"
-    UID: 781e261e-5ef9-4484-846e-275ede5008cf
-    SuccessCriteria:
-      - success criteria
-    ContentFiles:
-      -
-        Type: Lesson
-        UID: abb4da58-315c-46e3-8575-7d2b990c533e
-        Path: /python-oop/intro-to-design-patterns.md
-      -
-        Type: Lesson
-        UID: eedb1f62ad21bb5e478b414c25e17998
-        Path: /composition/problem-set-composition.md
-  -
     Title: Unit 1 Wrap-up
     Description: "Activity: Mind Map"
     UID: 05dcb8c7-8bfb-4b27-acef-9e1c838579d1
